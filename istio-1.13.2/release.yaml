@@ -16,8 +16,8 @@ spec:
   install:
     remediation:
       retries: 3
-    upgrade:
-      remediation:
+  upgrade:
+    remediation:
       retries: 3
   values:
     revision: canary
