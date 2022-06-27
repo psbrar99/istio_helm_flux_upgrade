@@ -11,4 +11,4 @@ spec:
   path: ./crds
   prune: true
   wait: true
-  timeout: 5m0s
+  timeout: 5m30s
